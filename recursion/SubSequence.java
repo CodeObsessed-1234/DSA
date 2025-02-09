@@ -7,7 +7,7 @@ import java.util.*;
 
 public class SubSequence {
     public static void main(String[] args) {
-        System.out.println(getSS("nitin"));
+        System.out.println(getSS("abcdkndkgndkgnvdkngdkgsnvkcnbknfg"));
     }
 
     private static ArrayList<String> getSS(String s) {

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class SubSequenceWithAscii {
     public static void main(String[] args) {
-        System.out.println(getSSWithAscii("ab"));
+        System.out.println(getSSWithAscii("abcdkndkgndkgnvdkngdkgsnvkcnbknfg"));
     }
 
     private static ArrayList<String> getSSWithAscii(String s) {
